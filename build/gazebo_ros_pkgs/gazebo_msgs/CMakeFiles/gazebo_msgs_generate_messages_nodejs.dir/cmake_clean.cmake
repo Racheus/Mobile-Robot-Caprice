@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/msg/ContactState.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/msg/ContactsState.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/msg/LinkState.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/msg/LinkStates.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/msg/ModelState.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/msg/ModelStates.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/msg/ODEJointProperties.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/msg/ODEPhysics.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/msg/PerformanceMetrics.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/msg/SensorPerformanceMetric.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/msg/WorldState.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/ApplyBodyWrench.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/ApplyJointEffort.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/BodyRequest.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/DeleteLight.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/DeleteModel.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/GetJointProperties.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/GetLightProperties.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/GetLinkProperties.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/GetLinkState.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/GetModelProperties.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/GetModelState.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/GetPhysicsProperties.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/GetWorldProperties.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/JointRequest.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/SetJointProperties.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/SetJointTrajectory.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/SetLightProperties.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/SetLinkProperties.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/SetLinkState.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/SetModelConfiguration.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/SetModelState.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/SetPhysicsProperties.js"
+  "/workspaces/Kinematics_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/SpawnModel.js"
+  "CMakeFiles/gazebo_msgs_generate_messages_nodejs"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/gazebo_msgs_generate_messages_nodejs.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

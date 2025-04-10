@@ -1,0 +1,2 @@
+set(sc_msgs_MESSAGE_FILES "/workspaces/Kinematics_ws/src/sc_msgs/msg/robot_state.msg;/workspaces/Kinematics_ws/src/sc_msgs/msg/parameters.msg;/workspaces/Kinematics_ws/src/sc_msgs/msg/vision_rect.msg;/workspaces/Kinematics_ws/src/sc_msgs/msg/intf_state.msg;/workspaces/Kinematics_ws/src/sc_msgs/msg/vision_line.msg")
+set(sc_msgs_SERVICE_FILES "/workspaces/Kinematics_ws/src/sc_msgs/srv/GetParamList.srv;/workspaces/Kinematics_ws/src/sc_msgs/srv/SetParamList.srv")
